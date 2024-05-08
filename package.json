@@ -18,7 +18,7 @@
     "jest": "^25.2.6",
     "markdownlint-cli": "^0.23.2",
     "standard": "^14.3.3",
-    "chance": "^2.3.1"
+    "chance": "^3.0.0"
   },
   "dependencies": {
     "yargs": "^15.3.1"
