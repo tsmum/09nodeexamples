@@ -37,3 +37,7 @@ jobs:
         app-name: '2405070060001008action30509'
         slot-name: 'production'
         package: .
+        
+    - name: Azure logout
+      run: az logout
+      
